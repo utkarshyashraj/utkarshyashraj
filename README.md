@@ -15,7 +15,7 @@ I like shipping end to end — reusable frontend architecture, clean API integra
 | Project | What it is |
 | --- | --- |
 | [**utkarsh-portfolio**](https://github.com/utkarshyashraj/utkarsh-portfolio) | Personal site — [live](https://utkarshyashraj.github.io/utkarsh-portfolio/) |
-| [**universal_ingestion**](https://github.com/utkarshyashraj/universal_ingestion) | Agentic RAG over PDFs with Gemini + custom pgvector schema |
+| [**pdf_ingestion**](https://github.com/utkarshyashraj/pdf_ingestion) | PDF Ingestion — agentic RAG over PDFs with Gemini + custom pgvector schema |
 | [**E-Commerce (ShopSphere)**](https://github.com/utkarshyashraj/E-Commerce) | React SPA — browse, cart totals, auth flow — [live](https://utkarshyashraj.github.io/E-Commerce/) |
 | [**Movie-Explorer**](https://github.com/utkarshyashraj/Movie-Explorer) | React + TypeScript movie discovery UI — [live](https://utkarshyashraj.github.io/Movie-Explorer/) |
 
